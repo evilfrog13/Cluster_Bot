@@ -1,3 +1,5 @@
+do not use whit project discovery in eve online
+
 # Cluster Bot
 
 **Automated cluster detection and polygon marking tool for density-plot games.**
